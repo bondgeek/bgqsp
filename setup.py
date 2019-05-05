@@ -9,6 +9,6 @@ setup(
     license='MIT LICENSE',
     author='Bart Mosley',
     author_email='bartm@bondgeek.com',
-    description='Utilities for handling CUSIP check digits.'
+    description='Utilities for handling CUSIP check digits.',
     url='https://github.com/bondgeek/bgqsp',
 )
