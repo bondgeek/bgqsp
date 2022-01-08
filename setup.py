@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as fp:
 setuptools.setup(
     name='bg-qsp',
     version='0.1.3',
-    packages=['bgqsp',],
+    packages=['bgqsp', ],
     license='MIT LICENSE',
     author='Bart Mosley',
     author_email='bartm@bondgeek.com',
